@@ -292,3 +292,40 @@
 [2025-10-16 09:23:20] [main] INFO  org.example.test.FormTest - Start formTest
 [2025-10-16 09:23:29] [main] INFO  org.example.test.FormTest - Finish formTest
 [2025-10-16 09:23:29] [main] INFO  org.example.test.FormTest - Finish afterTest
+[2025-10-16 09:59:43] [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Alexa\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+[2025-10-16 09:59:43] [main] INFO  org.example.test.FormTest - Start beforeTest
+[2025-10-16 09:59:46] [main] INFO  org.example.test.FormTest - Start formTest
+[2025-10-16 09:59:57] [main] INFO  org.example.test.FormTest - Finish formTest
+[2025-10-16 09:59:57] [main] INFO  org.example.test.FormTest - Finish afterTest
+[2025-10-16 10:16:56] [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Alexa\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+[2025-10-16 10:16:56] [main] INFO  org.example.test.FormTest - Start beforeTest
+[2025-10-16 10:17:01] [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Alexa\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+[2025-10-16 10:17:01] [main] INFO  org.example.test.FormTest - Start beforeTest
+[2025-10-16 10:17:04] [main] INFO  org.example.test.FormTest - Start formTest
+[2025-10-16 10:17:14] [main] INFO  org.example.test.FormTest - Finish formTest
+[2025-10-16 10:17:14] [main] INFO  org.example.test.FormTest - Finish afterTest
+[2025-10-16 10:19:40] [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Alexa\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+[2025-10-16 10:19:40] [main] INFO  org.example.test.FormTest - Start beforeTest
+[2025-10-16 10:19:43] [main] INFO  org.example.test.FormTest - Start formTest
+[2025-10-16 10:20:15] [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Alexa\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+[2025-10-16 10:20:15] [main] INFO  org.example.test.FormTest - Start beforeTest
+[2025-10-16 10:20:17] [main] INFO  org.example.test.FormTest - Start formTest
+[2025-10-16 10:20:29] [main] INFO  org.example.test.FormTest - Finish formTest
+[2025-10-16 10:20:29] [main] INFO  org.example.test.FormTest - Finish afterTest
+[2025-10-16 10:44:18] [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Alexa\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+[2025-10-16 10:44:18] [main] INFO  org.example.test.FormTest - Start beforeTest
+[2025-10-16 10:44:23] [main] INFO  org.example.test.FormTest - Start formTest
+[2025-10-16 10:44:38] [main] INFO  org.example.test.FormTest - Finish formTest
+[2025-10-16 10:44:38] [main] INFO  org.example.test.FormTest - Finish afterTest

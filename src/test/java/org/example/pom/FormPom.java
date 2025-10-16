@@ -1,5 +1,6 @@
 package org.example.pom;
 
+import io.qameta.allure.Step;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -47,6 +48,7 @@ public class FormPom {
         state.click();
     }
 
+    @Step("Set city")
     public void setCity(String cityParam) {
         cityDropdown.click();
         fluentWait(driver, By.xpath("//*[text()='" + cityParam + "']"), 10);
@@ -94,6 +96,8 @@ public class FormPom {
         userNumber.clear();
         userNumber.sendKeys(userNumberParam);
     }
+
+
 
     public void setDateOfBirth(String dateOfBirthParam) {
         dateOfBirthInput.sendKeys(Keys.chord(Keys.CONTROL, "a"));
