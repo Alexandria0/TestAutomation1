@@ -235,3 +235,25 @@
 [2025-10-16 08:32:42] [main] INFO  org.example.test.FormTest - Start formTest
 [2025-10-16 08:33:10] [main] INFO  org.example.test.FormTest - Finish formTest
 [2025-10-16 08:33:10] [main] INFO  org.example.test.FormTest - Finish afterTest
+[2025-10-16 08:50:09] [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Alexa\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+[2025-10-16 08:50:09] [main] INFO  org.example.test.FormTest - Start beforeTest
+[2025-10-16 08:50:09] [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+[2025-10-16 08:50:09] [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alexa\.cache\selenium\chromedriver\win64\141.0.7390.78\chromedriver.exe
+[2025-10-16 08:50:11] [main] INFO  org.example.test.FormTest - Start formTest
+[2025-10-16 08:50:13] [main] INFO  org.example.test.FormTest - Finish afterTest
+[2025-10-16 08:50:31] [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Alexa\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+[2025-10-16 08:50:31] [main] INFO  org.example.test.FormTest - Start beforeTest
+[2025-10-16 08:50:33] [main] INFO  org.example.test.FormTest - Start formTest
+[2025-10-16 08:50:45] [main] INFO  org.example.test.FormTest - Finish formTest
+[2025-10-16 08:50:45] [main] INFO  org.example.test.FormTest - Finish afterTest
+[2025-10-16 08:51:12] [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Alexa\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+[2025-10-16 08:51:12] [main] INFO  org.example.test.FormTest - Start beforeTest
+[2025-10-16 08:51:14] [main] INFO  org.example.test.FormTest - Start formTest
+[2025-10-16 08:51:26] [main] INFO  org.example.test.FormTest - Finish formTest
+[2025-10-16 08:51:26] [main] INFO  org.example.test.FormTest - Finish afterTest

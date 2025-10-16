@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="27,755">
+           time="11,799">
     <properties></properties>
 
 
 
             <testcase
                 name="formTest"
-                time="27,755"
+                time="11,799"
                 classname="org.example.test.FormTest">
             </testcase>
 </testsuite>
