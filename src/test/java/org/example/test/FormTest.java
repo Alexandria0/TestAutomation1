@@ -14,9 +14,7 @@ import org.testng.annotations.Test;
 
 public class FormTest {
 
-//    hyyf
     public static final Logger logger =  LogManager.getLogger(FormTest.class);
-
     static public WebDriver driver;
     static public String URL = "https://demoqa.com/automation-practice-form";
     static public String FIRST_NAME = "Alexandria";
@@ -35,7 +33,7 @@ public class FormTest {
     @BeforeClass
     public void beforeTest(){
         logger.info("Start beforeTest");
-        driver = Driver.getRemoteDriver();
+        driver = Driver.getAutoLocalDriver();
         driver.manage().window().maximize();
     }
     @Test

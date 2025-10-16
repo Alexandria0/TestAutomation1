@@ -29,7 +29,7 @@ public class Driver {
         options.setCapability("browserVersion", "128.0");
         options.setCapability("selenoid:options", new HashMap<String, Object>() {{
             /* How to add test badge */
-            put("name", "Test badge...");
+            put("name", "Testul se încarcă...");
 
             /* How to set session timeout */
             put("sessionTimeout", "15m");
